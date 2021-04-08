@@ -44,7 +44,25 @@
     color: #c9d1d9;
     margin-top: 60px;
   }
+
   body {
     background: #0d1117;
+  }
+
+  button {
+    background: #077056;
+    color: #c9d1d9;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin: 10px;
+  }
+
+  button[disabled] {
+    opacity: 0.2;
+    cursor: not-allowed;
   }
 </style>

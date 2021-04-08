@@ -26,7 +26,7 @@
 <style>
     .rank {
         font-size: 1.4em;
-        color: #0faf87;
+        color: #077056;
         font-weight: bold;
     }
 </style>
